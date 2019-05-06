@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UC Irvine – 첫 주말 (6월 24일 ~ 6월 25일) 후기"
+title:  "UCI 에서 I-SURF 2017 프로젝트를 시작하며…"
 author: khhan1993
 categories: [ United States, UC Irvine, I-SURF 2017 ]
 image: assets/images/2017-06-30-starting-i-surf-2017-project-in-uci/IMG_0072.jpg

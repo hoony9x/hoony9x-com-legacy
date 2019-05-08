@@ -3,16 +3,16 @@ layout: post
 title:  "UC Irvine – 첫 주말 (6월 24일 ~ 6월 25일) 후기"
 author: khhan1993
 categories: [ United States, UC Irvine, I-SURF 2017 ]
-image: assets/images/2017-06-27-uci-2017-1st-week/IMG_0039.jpg
+image: assets/images/2017-06-27-united-states-2017-1st-week/IMG_0039.jpg
 ---
 
 UC Irvine 에 도착하니 대략 6시 정도 되었다. 도착 후 2달 동안 지낼 기숙사로는 Arroyo Vista 로 배정을 받았다.
 
 이 건물은 대략 이렇게 생겼다.
 
-![arroyo_vista_1](/assets/images/2017-06-27-uci-2017-1st-week/1-1.jpg)
+![arroyo_vista_1](/assets/images/2017-06-27-united-states-2017-1st-week/1-1.jpg)
 
-![arroyo_vista_2](/assets/images/2017-06-27-uci-2017-1st-week/2-1.jpg)
+![arroyo_vista_2](/assets/images/2017-06-27-united-states-2017-1st-week/2-1.jpg)
 
 집 하나는 3층으로 이루어져 있고 1층은 거실 층이다.
 
@@ -20,67 +20,67 @@ UC Irvine 에 도착하니 대략 6시 정도 되었다. 도착 후 2달 동안 
 
 도착 첫 날에는 이곳 UCI 담당자인 Said M. Shokair, 국민대학교 임성수 교수님과 같이 햄버거를 먹으며 이야기를 나누는 시간을 가졌다.
 
-![arroyo_vista_with_in&out_burger](/assets/images/2017-06-27-uci-2017-1st-week/3-1.jpg)
+![arroyo_vista_with_in&out_burger](/assets/images/2017-06-27-united-states-2017-1st-week/3-1.jpg)
 
 먹고 일단 그날은 잠들었다.
 
 다음날 일어나서 저녁 전 까지 아무 일정이 없었기 때문에 집 근처 및 UC Irvine 캠퍼스를 둘러봤다.
 
-![near_arroyo_1](/assets/images/2017-06-27-uci-2017-1st-week/4-1.jpg)
+![near_arroyo_1](/assets/images/2017-06-27-united-states-2017-1st-week/4-1.jpg)
 
-![near_arroyo_2](/assets/images/2017-06-27-uci-2017-1st-week/5-1.jpg)
+![near_arroyo_2](/assets/images/2017-06-27-united-states-2017-1st-week/5-1.jpg)
 
-![near_arroyo_3](/assets/images/2017-06-27-uci-2017-1st-week/6-1.jpg)
+![near_arroyo_3](/assets/images/2017-06-27-united-states-2017-1st-week/6-1.jpg)
 
 Irvine 지역은 날씨가 매우 좋다 못해 비가 거의 내리지 않는다고 한다. 아침에 일어나면 구름이 껴있을 때도 있지만 12시가 지나기 전에 대부분 사라지고 구름 한 점 없는 하늘을 보일 때가 많다.
 
 그리고 각종 동물들도 많이 볼 수 있다.
 
-![animal_at_tree](/assets/images/2017-06-27-uci-2017-1st-week/7.jpg)
+![animal_at_tree](/assets/images/2017-06-27-united-states-2017-1st-week/7.jpg)
 
 토끼도 있고 도마뱀(!)도 있고 너구리도 있고 까마귀도 있고… 꽤나 많다. (사진은 못찍었다.)
 
-![uci_campus_1](/assets/images/2017-06-27-uci-2017-1st-week/8-1.jpg)
+![uci_campus_1](/assets/images/2017-06-27-united-states-2017-1st-week/8-1.jpg)
 
-![uci_campus_2](/assets/images/2017-06-27-uci-2017-1st-week/9-1.jpg)
+![uci_campus_2](/assets/images/2017-06-27-united-states-2017-1st-week/9-1.jpg)
 
 학교 캠퍼스 자체가 매우 커서 캠퍼스 내로 뚫려있는 도로도 폭이 꽤 크다. (캠퍼스 내에서 4차선 도로를 볼 줄은 몰랐다. 역시 땅덩이가 커서 그런지 스케일이 다르다.)
 
-![uci_campus_google_map](/assets/images/2017-06-27-uci-2017-1st-week/10-1.png)
+![uci_campus_google_map](/assets/images/2017-06-27-united-states-2017-1st-week/10-1.png)
 
 역시 크다...
 
-![uci_campus_bridge](/assets/images/2017-06-27-uci-2017-1st-week/12.jpg)
+![uci_campus_bridge](/assets/images/2017-06-27-united-states-2017-1st-week/12.jpg)
 
-![uci_campus_java_city](/assets/images/2017-06-27-uci-2017-1st-week/13.jpg)
+![uci_campus_java_city](/assets/images/2017-06-27-united-states-2017-1st-week/13.jpg)
 
-![uci_campus_engineering_hall](/assets/images/2017-06-27-uci-2017-1st-week/14.jpg)
+![uci_campus_engineering_hall](/assets/images/2017-06-27-united-states-2017-1st-week/14.jpg)
 
 유리와 철근으로 이루어진 조형물이 꽤 인상적이다.
 
-![uci_campus_e_sports_arena](/assets/images/2017-06-27-uci-2017-1st-week/15.jpg)
+![uci_campus_e_sports_arena](/assets/images/2017-06-27-united-states-2017-1st-week/15.jpg)
 
 여기는 일종의 PC방이다. 1시간에 USD 4.00 이라고 하는데 아직 한 번도 가보지 않았다.
 
-![uci_campus_park_1](/assets/images/2017-06-27-uci-2017-1st-week/16.jpg)
+![uci_campus_park_1](/assets/images/2017-06-27-united-states-2017-1st-week/16.jpg)
 
-![uci_campus_park_2](/assets/images/2017-06-27-uci-2017-1st-week/17.jpg)
+![uci_campus_park_2](/assets/images/2017-06-27-united-states-2017-1st-week/17.jpg)
 
-![uci_campus_park_3](/assets/images/2017-06-27-uci-2017-1st-week/18.jpg)
+![uci_campus_park_3](/assets/images/2017-06-27-united-states-2017-1st-week/18.jpg)
 
 캠퍼스 중심부에는 공원이 있는데 꽤 잘 꾸며져 있다. 그리고 여기에서도 참 많은 동물들을 볼 수 있다.
 
 그 다음에 University Town Center 로 가봤다.
 
-![uci_campus_center_1](/assets/images/2017-06-27-uci-2017-1st-week/19.jpg)
+![uci_campus_center_1](/assets/images/2017-06-27-united-states-2017-1st-week/19.jpg)
 
-![uci_campus_center_2](/assets/images/2017-06-27-uci-2017-1st-week/20.jpg)
+![uci_campus_center_2](/assets/images/2017-06-27-united-states-2017-1st-week/20.jpg)
 
-![uci_campus_center_3](/assets/images/2017-06-27-uci-2017-1st-week/21.jpg)
+![uci_campus_center_3](/assets/images/2017-06-27-united-states-2017-1st-week/21.jpg)
 
 여기에는 각종 맛집들이 많이 있다. (맛집이라고 적었지만 각자의 입맛에 맞을지는 모른다)
 
-![uci_campus_t-mobile](/assets/images/2017-06-27-uci-2017-1st-week/22.jpg)
+![uci_campus_t-mobile](/assets/images/2017-06-27-united-states-2017-1st-week/22.jpg)
 
 UC Irvine 캠퍼스 내에 있는 유일한 이동통신사 매장이다. (아마도…?)
 
@@ -90,16 +90,16 @@ UC Irvine 캠퍼스 내에 있는 유일한 이동통신사 매장이다. (아�
 
 일요일 저녁에는 Welcome Barbecue 시간이 있었다.
 
-![Said_and_prof.Lim](/assets/images/2017-06-27-uci-2017-1st-week/27.jpg)
+![Said_and_prof.Lim](/assets/images/2017-06-27-united-states-2017-1st-week/27.jpg)
 
 UC Irvine Said M. Shokair, 국민대학교 임성수 교수님
 
-![bbq_party_1](/assets/images/2017-06-27-uci-2017-1st-week/23.jpg)
+![bbq_party_1](/assets/images/2017-06-27-united-states-2017-1st-week/23.jpg)
 
-![bbq_party_2](/assets/images/2017-06-27-uci-2017-1st-week/24.jpg)
+![bbq_party_2](/assets/images/2017-06-27-united-states-2017-1st-week/24.jpg)
 
-![bbq_party_3](/assets/images/2017-06-27-uci-2017-1st-week/25.jpg)
+![bbq_party_3](/assets/images/2017-06-27-united-states-2017-1st-week/25.jpg)
 
-![bbq_party_4](/assets/images/2017-06-27-uci-2017-1st-week/26.jpg)
+![bbq_party_4](/assets/images/2017-06-27-united-states-2017-1st-week/26.jpg)
 
 시차 적응이 덜 된 상태이지만 그 와중에도 맛있게 잘 먹었다.

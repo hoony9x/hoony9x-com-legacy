@@ -26,7 +26,7 @@ Universal Studio Hollywood 에 왔다 하면 다들 여기서 사진을 한 번�
 - [The Wizarding World of Harry Potter](/universal-studio-hollywood-the-wizarding-world-of-harry-potter)
 - [The Walking Dead](/universal-studio-hollywood-the-walking-dead)
 - Despicable Me Minion Mayhem
-- Studio Tour
+- [Studio Tour](/universal-studio-hollywood-studio-tour)
 - The Simpsons Ride
 - Jurassic Park: The Ride
 - Transformers: The Ride

@@ -24,7 +24,7 @@ Universal Studio Hollywood 에 왔다 하면 다들 여기서 사진을 한 번�
 내가 이날 즐긴 Attraction 들은 다음과 같다.
 
 - [The Wizarding World of Harry Potter](/universal-studio-hollywood-the-wizarding-world-of-harry-potter)
-- The Walking Dead
+- [The Walking Dead](/universal-studio-hollywood-the-walking-dead)
 - Despicable Me Minion Mayhem
 - Studio Tour
 - The Simpsons Ride

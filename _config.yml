@@ -1,11 +1,11 @@
 # Site
 name: "Han K.H."
 title: "Han K.H."
-description: "한양대학교 한기훈 | Kihoon Han, Hanyang University"
+description: "한양대학교 한기훈"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-67257738-8'
 disqus: 'blog-khhan1993-com'
 include: ["_pages"]
 permalink: /:title/
@@ -21,7 +21,7 @@ authors:
     twitter: https://www.twitter.com/khhan1993
     facebook: https://www.facebook.com/kordreamfollower
     linkedin: https://www.linkedin.com/in/kihoon-han-03a801117
-    description: "한양대학교 한기훈 | Kihoon Han, Hanyang University"
+    description: "한양대학교 한기훈"
 
 # Plugins
 plugins:

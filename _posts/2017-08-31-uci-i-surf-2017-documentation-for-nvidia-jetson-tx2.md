@@ -10,7 +10,7 @@ image: assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-
 This post is the result of my 2-month project with NVIDIA Jetson TX2.  
 It contains how to do the initial setup, what is DVFS, about NVPModel, how to measure power performance, and how to use custom benchmark code.
 
-### Initial Setup (Click [here](https://blog.khhan1993.com/nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/) to view related post)
+### Initial Setup (Click [here](/nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/) to view related post)
 We can download SDK(JetPack) from [this site](https://developer.nvidia.com/embedded/jetpack).  
 After that, we can do the initial setup for NVIDIA Jetson TX2.  
 Put JetPack script into specific directory and type following commands.
@@ -36,20 +36,20 @@ Please note that your computer and NVIDIA Jetson TX2 must be connected to the in
 
 Prepare your device to recovery mode and just wait. SDK will automatically setup your device.
 
-### About DVFS (Click [here](https://blog.khhan1993.com/about-dvfs-nvidia-jetson-tx2/) to view related post)
+### About DVFS (Click [here](/about-dvfs-nvidia-jetson-tx2/) to view related post)
 DVFS is an acronym of Dynamic Voltage and Frequency Scaling. You can see details in below links.
 
 - https://en.wikipedia.org/wiki/Dynamic_voltage_scaling
 - https://en.wikipedia.org/wiki/Dynamic_frequency_scaling
 - http://processors.wiki.ti.com/index.php/DVFS_User_Guide
 
-### About NVPModel (Click [here](https://blog.khhan1993.com/nvpmodel-nvidia-jetson-tx2/) to view related post)
+### About NVPModel (Click [here](/nvpmodel-nvidia-jetson-tx2/) to view related post)
 NVPModel makes it easy to adjust the clock of CPU or GPU cores and on/off state. You can use “nvpmodel” command and just type 1-line command to change device operation state.
 
 You can see details on [this site](http://www.jetsonhacks.com/2017/03/25/nvpmodel-nvidia-jetson-tx2-development-kit/).
 
 
-### About Power Monitoring (Click [here](https://blog.khhan1993.com/power-monitoring-nvidia-jetson-tx2/) to view related post)
+### About Power Monitoring (Click [here](/power-monitoring-nvidia-jetson-tx2/) to view related post)
 NVIDIA Jetson TX2 supports power monitoring via I2C bus.  
 We can check each value using [sysfs](https://ko.wikipedia.org/wiki/Sysfs).  
 TX2 has 12 PMUs.  

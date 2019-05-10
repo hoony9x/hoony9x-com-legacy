@@ -3,7 +3,7 @@ layout: post
 title:  "Elastic Beanstalk 로 생성된 S3 Bucket 삭제가 되지 않을 경우 해결 방법"
 redirect_from: "/elastic-beanstalk-ro-saengseongdoen-s3-bucket-sagjega-doeji-anheul-gyeongu-haegyeol-bangbeob"
 author: khhan1993
-categories: [ Seoul, Photo ]
+categories: [ Develop, AWS ]
 image: assets/images/2018-11-22-delete-aws-s3-bucket-created-by-elasticbeanstalk/elasticbeanstalk.png
 ---
 

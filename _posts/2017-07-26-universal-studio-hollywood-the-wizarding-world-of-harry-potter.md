@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Universal Studio Hollywood – The Wizarding World of Harry Potter"
+redirect_from: "/2017/07/25/universal-studio-hollywood-the-wizarding-world-of-harry-potter/"
 author: khhan1993
 categories: [ Los Angeles, I-SURF 2017, United States ]
 image: assets/images/2017-07-26-universal-studio-hollywood-the-wizarding-world-of-harry-potter/IMG_0722.jpg

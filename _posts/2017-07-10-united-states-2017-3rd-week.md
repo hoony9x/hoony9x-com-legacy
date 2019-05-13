@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "세 번째 주말 (7/8 ~ 7/9) – Laguna Beach"
+redirect_from:
+  - "/2017/07/10/%EC%84%B8-%EB%B2%88%EC%A7%B8-%EC%A3%BC%EB%A7%90-78-79-laguna-beach/"
+  - "/i-surf-2017-3rd-week/"
+  - "/i-surf-2017-third-week/"
 author: khhan1993
 categories: [ I-SURF 2017, United States, UC Irvine ]
 image: assets/images/2017-07-10-united-states-2017-3rd-week/IMG_0364.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Universal Studio Hollywood – Studio Tour 후기"
+redirect_from: "/2017/07/25/universal-studio-hollywood-studio-tour/"
 author: khhan1993
 categories: [ Los Angeles, I-SURF 2017, United States ]
 image: assets/images/2017-07-26-universal-studio-hollywood-studio-tour/IMG_0750.jpg

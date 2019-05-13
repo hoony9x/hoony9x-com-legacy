@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "4th of July (US Independence Day) 2017"
+redirect_from: "/2017/07/05/4th-of-july-us-independence-day-2017/"
 author: khhan1993
 categories: [ United States, UC Irvine, Photo ]
 image: assets/images/2017-07-05-4th-of-july-us-independence-day-2017/IMG_0234.jpg

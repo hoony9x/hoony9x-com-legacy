@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "NVPModel – NVIDIA Jetson TX2"
+redirect_from: "/2017/07/03/nvpmodel-nvidia-jetson-tx2/"
 author: khhan1993
 categories: [ NVIDIA Jetson TX2, United States, UC Irvine, I-SURF 2017 ]
 image: assets/images/2017-07-03-nvpmodel-nvidia-jetson-tx2/3.jpeg

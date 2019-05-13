@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "J-1 비자 인터뷰 후기 (US J-1 Visa Interview)"
+redirect_from: "/2017/06/23/j-1-%EB%B9%84%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0/"
 author: khhan1993
 categories: [ United States, US Visa ]
 featured: true

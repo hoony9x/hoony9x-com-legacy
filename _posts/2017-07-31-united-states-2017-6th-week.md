@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "목, 금, 그리고 여섯 번째 주말 (7/27 ~ 7/30) – San Francisco 방문 후기"
+redirect_from: 
+  - "/2017/07/31/%EB%AA%A9-%EA%B8%88-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%97%AC%EC%84%AF-%EB%B2%88%EC%A7%B8-%EC%A3%BC%EB%A7%90-727-730-san-francisco-%EB%B0%A9%EB%AC%B8-%ED%9B%84%EA%B8%B0/"
+  - "/i-surf-2017-6th-week/"
+  - "/i-surf-2017-sixth-week/"
 author: khhan1993
 categories: [ San Francisco, I-SURF 2017, United States ]
 image: assets/images/2017-07-31-united-states-2017-6th-week/-----------2017-08-19------10.01.27.png

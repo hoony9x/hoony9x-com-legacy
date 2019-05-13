@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "51 Conference 참석 후기 (Visiting 51 Conference)"
+redirect_from: "/2017/08/02/visiting-51-conference/"
 author: khhan1993
 featured: true
 categories: [ San Francisco, I-SURF 2017, United States, 51 Conference ]

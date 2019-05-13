@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "JBL Flip 4 사용 후기 (JBL Flip 4 Review)"
+redirect_from: "/2017/10/11/jbl-flip-4-package-box-review/"
 author: khhan1993
 categories: [ Electronic Devices, Product Review ]
 image: assets/images/2017-10-11-jbl-flip-4-review/IMG_0627.jpg

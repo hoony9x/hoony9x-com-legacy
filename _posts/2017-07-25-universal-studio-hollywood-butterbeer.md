@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Universal Studio Hollywood – Butterbeer 를 마셔봤다."
+redirect_from: "/2017/07/25/universal-studio-hollywood-butterbeer/"
 author: khhan1993
 categories: [ Los Angeles, I-SURF 2017, United States ]
 image: assets/images/2017-07-25-universal-studio-hollywood-butterbeer/IMG_3070.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "카카오뱅크 한정판 체크카드 (Limited Edition) 수령 후기"
-redirect_from: "/2017/10/24/kakaobank-card-earlybird-benifits-need-to-know/"
+redirect_from: "/2018/09/07/kakaobank-card-limited-edition-review/"
 author: khhan1993
 categories: [ kakaobank ]
 image: assets/images/2018-09-07-kakaobank-card-limited-edition-review/KakaoTalk_Photo_2018-09-07-18-31-18.jpeg

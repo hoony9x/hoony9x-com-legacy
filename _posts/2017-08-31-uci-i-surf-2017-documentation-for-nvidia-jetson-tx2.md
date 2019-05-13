@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "I-SURF 2017 Documentation for NVIDIA Jetson TX2"
-redirect_from: "/i-surf-2017-documentation-for-nvidia-jetson-tx2"
+redirect_from:
+  - "/i-surf-2017-documentation-for-nvidia-jetson-tx2/"
+  - "/2017/08/31/i-surf-2017-documentation-for-nvidia-jetson-tx2/"
 author: khhan1993
 categories: [ I-SURF 2017, NVIDIA Jetson TX2 ]
 image: assets/images/2017-08-31-uci-i-surf-2017-documentation-for-nvidia-jetson-tx2/TX2_Module_170203_0017_TRANSP_2000px.png

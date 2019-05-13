@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "JBL Flip 4 개봉기 (JBL Flip 4 Package Box Unpack)"
+redirect_from: "/2017/08/21/jbl-flip-4-package-box-unpack/"
 author: khhan1993
 featured: true
 rating: 5

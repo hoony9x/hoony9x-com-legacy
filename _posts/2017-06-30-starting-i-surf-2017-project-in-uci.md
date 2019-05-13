@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "UCI 에서 I-SURF 2017 프로젝트를 시작하며…"
+title:  "UCI 에서 I-SURF 2017 프로젝트를 시작하며..."
+redirect_from: "/2017/06/30/uci%EC%97%90%EC%84%9C-i-surf-2017-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/"
 author: khhan1993
 categories: [ United States, UC Irvine, I-SURF 2017 ]
 image: assets/images/2017-06-30-starting-i-surf-2017-project-in-uci/IMG_0072.jpg

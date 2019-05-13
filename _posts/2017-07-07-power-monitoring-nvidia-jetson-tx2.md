@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Power Monitoring – NVIDIA Jetson TX2"
+redirect_from: "/2017/07/07/power-monitoring-nvidia-jetson-tx2/"
 author: khhan1993
 categories: [ NVIDIA Jetson TX2, I-SURF 2017, United States, UC Irvine ]
 image: assets/images/2017-07-07-power-monitoring-nvidia-jetson-tx2/graph_sample.jpeg

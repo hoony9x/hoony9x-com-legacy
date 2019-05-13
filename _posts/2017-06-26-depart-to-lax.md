@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "로스앤젤레스 국제공항 으로 떠나다 (Depart to LAX)"
+redirect_from: "/2017/06/26/%EB%A1%9C%EC%8A%A4%EC%95%A4%EC%A0%A4%EB%A0%88%EC%8A%A4-%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD%EC%9C%BC%EB%A1%9C-%EB%96%A0%EB%82%98%EB%8B%A4-depart-to-lax/"
 author: khhan1993
 categories: [ United States ]
 image: assets/images/2017-06-26-depart-to-lax/lax-aeroporto-internacional-de-los-anfeles.jpg

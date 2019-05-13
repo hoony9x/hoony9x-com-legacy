@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Universal Studio Hollywood – The Walking Dead"
+redirect_from: "/2017/07/25/universal-studio-hollywood-walking-dead/"
 author: khhan1993
 categories: [ Los Angeles, I-SURF 2017, United States ]
 image: assets/images/2017-07-25-universal-studio-hollywood-the-walking-dead/IMG_0740.jpg

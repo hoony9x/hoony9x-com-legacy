@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dynamic Voltage and Frequency Scaling (DVFS) 에 관하여"
+redirect_from: "/2017/07/03/dynamic-voltage-and-frequency-scaling-dvfs-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/"
 author: khhan1993
 categories: [ NVIDIA Jetson TX2, United States, UC Irvine, I-SURF 2017 ]
 image: assets/images/2017-07-03-about-dvfs-nvidia-jetson-tx2/DFVS_Graph.001.jpeg

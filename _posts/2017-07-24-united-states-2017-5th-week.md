@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "다섯 번째 주말 (7/22 ~ 7/23) – Universal Studio Hollywood"
+redirect_from:
+  - "/2017/07/24/%EB%8B%A4%EC%84%AF-%EB%B2%88%EC%A7%B8-%EC%A3%BC%EB%A7%90-722-723-universal-studio-hollywood/"
+  - "/i-surf-2017-5th-week/"
+  - "/i-surf-2017-fifth-week/"
 author: khhan1993
 categories: [ Los Angeles, United States ]
 image: assets/images/2017-07-24-united-states-2017-5th-week/IMG_0706.jpg

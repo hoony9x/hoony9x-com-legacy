@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Los Angeles – Eagle Rock Brewery 방문 후기"
+redirect_from: "/2017/07/17/los-angeles-eagle-rock-brewery/"
 author: khhan1993
 categories: [ United States, Los Angeles ]
 image: assets/images/2017-07-18-los-angeles-eagle-rock-brewery-visit-review/IMG_0548.jpg

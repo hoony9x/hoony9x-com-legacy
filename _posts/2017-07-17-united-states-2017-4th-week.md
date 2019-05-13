@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "네 번째 주말 (7/15 ~ 7/16) – Los Angeles"
+redirect_from:
+  - "/2017/07/17/%EB%84%A4-%EB%B2%88%EC%A7%B8-%EC%A3%BC%EB%A7%90-715-716-los-angeles/"
+  - "/i-surf-2017-4th-week/"
+  - "/i-surf-2017-fourth-week/"
 author: khhan1993
 categories: [ I-SURF 2017, United States, UC Irvine ]
 image: assets/images/2017-07-17-united-states-2017-4th-week/IMG_0574.jpg

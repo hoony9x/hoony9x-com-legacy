@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "UCI I-SURF 2017 참가 3주차 정리 글"
+redirect_from:
+  - "/2017/07/17/uci-surf-2017-%EC%B0%B8%EA%B0%80-3%EC%A3%BC%EC%B0%A8-%EC%A0%95%EB%A6%AC-%EA%B8%80/"
+  - "/uci-i-surf-2017-third-week/"
 author: khhan1993
 categories: [ I-SURF 2017, United States, UC Irvine ]
 image: assets/images/2017-07-17-uci-i-surf-2017-3rd-week/IMG_0072.jpg

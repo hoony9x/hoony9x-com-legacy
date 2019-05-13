@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Google 본사 방문 후기 (Visiting Google HQ at Mountain View)"
+redirect_from: "/2017/08/01/google-%EB%B3%B8%EC%82%AC-%EB%B0%A9%EB%AC%B8-%ED%9B%84%EA%B8%B0-visiting-google-hq/"
 author: khhan1993
 featured: true
 categories: [ San Francisco, I-SURF 2017, United States, Google ]

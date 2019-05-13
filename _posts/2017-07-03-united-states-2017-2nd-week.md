@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "두 번째 주말 (7/1 ~ 7/2) – New Port Beach"
+redirect_from:
+  - "/2017/07/03/%EB%91%90-%EB%B2%88%EC%A7%B8-%EC%A3%BC%EB%A7%90-71-72-new-port-beach/"
+  - "/i-surf-2017-2nd-week/"
+  - "/i-surf-2017-second-week/"
 author: khhan1993
 categories: [ I-SURF 2017, United States, UC Irvine ]
 image: assets/images/2017-07-03-united-states-2017-2nd-week/IMG_0128.jpg

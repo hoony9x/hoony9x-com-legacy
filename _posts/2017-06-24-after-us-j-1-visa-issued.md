@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "J-1 비자 발급 후 출국 전까지 했던 것들"
+redirect_from: "/2017/06/24/j-1-%EB%B9%84%EC%9E%90-%EB%B0%9C%EA%B8%89-%ED%9B%84-%EC%B6%9C%EA%B5%AD-%EC%A0%84%EA%B9%8C%EC%A7%80-%ED%96%88%EB%8D%98-%EA%B2%83%EB%93%A4/"
 author: khhan1993
 categories: [ United States, US Visa ]
 image: assets/images/2017-06-24-after-us-j-1-visa-issued/KakaoTalk_Photo_2018-10-20-14-11-49.jpeg

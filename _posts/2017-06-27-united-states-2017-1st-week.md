@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "UC Irvine – 첫 주말 (6월 24일 ~ 6월 25일) 후기"
+redirect_from:
+  - "/2017/06/27/uc-irvine-%EC%B2%AB-%EC%A3%BC%EB%A7%90-6%EC%9B%94-24%EC%9D%BC-6%EC%9B%94-25%EC%9D%BC-%ED%9B%84%EA%B8%B0/"
+  - "/i-surf-2017-1st-week/"
+  - "/i-surf-2017-first-week/"
 author: khhan1993
 categories: [ United States, UC Irvine, I-SURF 2017 ]
 image: assets/images/2017-06-27-united-states-2017-1st-week/IMG_0039.jpg

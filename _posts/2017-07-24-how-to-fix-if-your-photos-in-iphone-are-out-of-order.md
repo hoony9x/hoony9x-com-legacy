@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "iPhone 사진 뒤죽박죽 되었을 때 해결방법"
+redirect_from: "/2017/07/24/iphone-%EC%82%AC%EC%A7%84-%EB%92%A4%EC%A3%BD%EB%B0%95%EC%A3%BD-%EB%90%98%EC%97%88%EC%9D%84-%EB%95%8C-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95/"
 author: khhan1993
 categories: [ iPhone, Apple ]
 featured: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "카카오뱅크 체크카드 수령 후기"
+redirect_from: "/2017/08/29/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-%EC%B2%B4%ED%81%AC%EC%B9%B4%EB%93%9C-%EC%88%98%EB%A0%B9-%ED%9B%84%EA%B8%B0/"
 author: khhan1993
 categories: [ kakaobank ]
 image: assets/images/2017-08-29-kakaobank-check-card-review/IMG_0740-1-2.jpg

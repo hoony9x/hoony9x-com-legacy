@@ -62,6 +62,12 @@ post_class: post-template
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
             {% if site.adsense == "enabled" %}
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            {% endif %}
+            <!-- End Adsense -->
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            {% if site.adsense == "enabled" %}
             {% include adsense-under-header.html %}
             {% endif %}
             <!-- End Adsense -->
@@ -88,6 +94,12 @@ post_class: post-template
                 <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
             </div>
             {% endif %}
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            {% if site.adsense == "enabled" %}
+            {% include adsense-above-footer.html %}
+            {% endif %}
+            <!-- End Adsense -->
 
             <!-- Post Date -->
             <p>

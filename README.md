@@ -1,4 +1,4 @@
-# Personal blog of Han K.H.
+# Personal page for Han K.H.
 
 한양대학교 한기훈
 

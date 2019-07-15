@@ -5,9 +5,9 @@ description: "한양대학교 한기훈"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-142546009-1'
+google_analytics: ''
 lang: ko_KR
-disqus: 'blog-khhan1993-com'
+disqus: ''
 include: ["_pages"]
 permalink: /:title/
 

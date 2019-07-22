@@ -27,13 +27,14 @@ googleplus_username:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/images/profile_image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a Computer Science student (undergraduate) in Hanyang University, Republic of Korea.<br/>
+  I have experience developing web server and managing programming contest system.<br/>
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  I am most skilled in: <mark>AWS</mark>, <mark>Node.JS (ExpressJS)</mark>, and <mark>Python3 (Flask)</mark>.
+
+  I am also interested in: <mark>Operating Programming Contest</mark>, and <mark>Photography</mark>.
+
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

@@ -1,9 +1,15 @@
-# Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- layout: left
+  name: HYU-OMS
+  link: https://hyu-oms.com
+  github: HYU-OMS
   quote: >
-    Short overview of the project (optional)
+    In Hanyang University (and sometimes, other schools too), this system is used in annual school festival pub.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    To deal with the problem using handwritten order sheet, I decided to make this system. <br/><br/>
+
+    I first developed this system on a web-based basis using PHP and MySQL in 2014,<br/>and I am taking advantage of the system at the pub every festive season every year.<br/><br/>
+
+    In 2016, I developed a 2nd version using Node.JS (with ExpressJS) and AngularJS.<br/>
+    And the 3rd version was developed in 2017, using Python3 (with Flask) and React.<br/><br/>
+
+    The 4th version is under development right now.

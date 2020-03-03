@@ -5,7 +5,7 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "firebase deploy",
+    "deploy": "npm run clean && npm run build && firebase deploy",
     "server": "hexo server"
   },
   "hexo": {

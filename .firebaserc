@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hoony9x-personal-purpose"
+  },
+  "targets": {
+    "hoony9x-personal-purpose": {
+      "hosting": {
+        "personal-page": [
+          "hoony9x-personal-purpose"
+        ]
+      }
+    }
+  }
+}

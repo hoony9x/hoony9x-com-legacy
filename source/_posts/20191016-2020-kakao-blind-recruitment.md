@@ -53,10 +53,6 @@ tags:
 
 보자마자 바로 코드 작성을 시작했어요. 그런데 자꾸 특정 테스트 케이스에서 WA 가 발생을 했어요. 왜 그런가 했더니 숫자가 10 이상이 될 때를 고려하지 않고 길이 계산을 했더라고요. 이걸 빠르게 발견하지 못해서 30분정도 삽질했어요.
 
-<details>
-<summary>Click to see source code</summary>
-<p>
-
 #### 코딩 테스트 당시 작성했던 1번 문제 코드
 
 ```cpp
@@ -103,17 +99,11 @@ int solution(string s) {
 }
 ```
 
-</p>
-</details>
-
 항상 저런 자잘한 조건 체크를 못해서 WA 를 내는 경우가 많았는데 이번에도 또 이랬어요(...)
 
 ### 2번
 
 [BOJ 2504](https://www.acmicpc.net/problem/2504), [BOJ 3345](https://www.acmicpc.net/problem/3345), [BOJ 10422](https://www.acmicpc.net/problem/10422) 같은 문제를 풀어본 적이 있다면 매우 익숙한 문제에요. 저는 Stack 자료구조를 사용해서 풀었어요. 쌍이 맞지 않는 괄호 문자에 대해서 문제에서 하라는 지시사항대로 코드를 작성하면 쉽게 풀리는 문제였어요.
-
-<details><summary>Click to see source code</summary>
-<p>
 
 #### 코딩 테스트 당시 작성했던 2번 문제 코드
 
@@ -201,9 +191,6 @@ string solution(string p) {
 }
 ```
 
-</p>
-</details>
-
 이 문제는 별 문제 없이 통과했어요.
 
 ### 3번
@@ -218,9 +205,6 @@ string solution(string p) {
 키를 90도 회전 시키는 부분이 또 문제였어요. 회전변환을 하려면 이 키의 좌표를 원점으로 옮긴 후 회전변환을 해야 하는데 키의 가로세로 길이가 짝수인 경우 원점으로 옮기기가 좀 골때렸어요. 혹시나 될까 하는 생각으로 double 자료형을 잠시 써서 회전을 해봤는데 다행히(?) 별 문제 없더라고요.
 
 우여곡절 끝에 코드를 작성해서 문제를 풀었어요. 아래는 당시에 작성했던 코드에요.
-
-<details><summary>Click to see source code</summary>
-<p>
 
 #### 코딩 테스트 당시 작성했던 3번 문제 코드
 
@@ -402,9 +386,6 @@ bool solution(vector< vector<int> > key, vector< vector<int> > lock) {
 }
 ```
 
-</p>
-</details>
-
 너무 막 짠 코드라 저가 봐도 맘에 들지 않아요.
 
 ### 4번
@@ -412,9 +393,6 @@ bool solution(vector< vector<int> > key, vector< vector<int> > lock) {
 이거도 어디서 한번 봤던 유형인데 이런 유형을 직접 풀어본 적이 없었어요. 입력 데이터의 크기를 보니 [특정 알고리즘(트라이)](https://namu.wiki/w/%ED%8A%B8%EB%9D%BC%EC%9D%B4)이 요구된다는 것은 바로 알았지만 그 알고리즘이 뭔지 생각이 안나는 거에요. (그건 또 당연한게, 풀어 본 적이 없으니...) 그런데 생각이 나는 대로 코드를 작성해 봤는데 트라이 알고리즘 비스무리하게 푼거 같아요.
 
 문제의 입력 데이터가 "효율성" 부분과 "정확성" 부분으로 나뉘어 있는데, 큰 사이즈의 입력은 효율성 부분에서 들어와요. 그런데 "정확성" 부분에서 '?' 로만 이루어진 단어가 테스트 케이스로 존재하지 않았던 것 같아요. (이 데이터가 "효율성" 입력에 존재했던 것으로 보여요)
-
-<details><summary>Click to see source code</summary>
-<p>
 
 #### 코딩 테스트 당시 작성했던 4번 문제 코드
 
@@ -578,9 +556,6 @@ vector<int> solution(vector<string> words, vector<string> queries) {
   return answer;
 }
 ```
-
-</p>
-</details>
 
 이 문제를 풀고 나니 시간이 20분 정도 남았던 것으로 기억해요. 그래서 나머지 문제는 풀지 못했네요.
 

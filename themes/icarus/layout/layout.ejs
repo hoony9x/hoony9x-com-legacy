@@ -31,5 +31,13 @@
     <% if (has_config('search.type')) { %>
     <%- _partial('search/' + get_config('search.type')) %>
     <% } %>
+
+    <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+    <script src="/__/firebase/6.2.0/firebase-app.js"></script>
+
+    <script src="/__/firebase/6.2.0/firebase-performance.js"></script>
+
+    <!-- Initialize Firebase -->
+    <script src="/__/firebase/init.js"></script>
 </body>
 </html>

@@ -98,6 +98,4 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:hoony9x/hoony9x.github.io.git
-  branch: master
+  type: ''

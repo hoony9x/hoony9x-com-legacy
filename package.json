@@ -5,7 +5,7 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "deploy": "firebase deploy",
     "server": "hexo server"
   },
   "hexo": {
@@ -15,7 +15,6 @@
     "cheerio": "^1.0.0-rc.3",
     "firebase": "^7.9.3",
     "hexo": "^4.0.0",
-    "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^1.0.0",

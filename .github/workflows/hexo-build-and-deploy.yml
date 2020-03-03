@@ -18,5 +18,6 @@ jobs:
       - uses: yrpang/github-actions-hexo@master
         with:
           deploykey: ${{secrets.HEXO_BUILD_AND_DEPLOY_KEY}}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           username: hoony9x
           email: me@hoony9x.com

@@ -139,7 +139,7 @@ widgets:
         # Whether to show avatar image rounded or square
         avatar_rounded: true
         # Path or URL for the follow button
-        follow_link: 'https://github.com/hoony9x'
+        # follow_link: 'https://github.com/hoony9x'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
@@ -153,7 +153,7 @@ widgets:
                 url: 'https://facebook.com/hoony9x'
             Instagram:
                 icon: fab fa-instagram
-                url: 'https://www.instagram.com/hoony9x'
+                url: 'https://instagram.com/hoony9x'
     # -
     #     # Widget name
     #     type: toc
@@ -169,6 +169,7 @@ widgets:
             GitHub: 'https://github.com/hoony9x'
             Facebook: 'https://facebook.com/hoony9x'
             LinkedIn: 'https://linkedin.com/in/kihoon-han-03a801117/'
+            Instagram: 'https://instagram.com/hoony9x'
     -
         # Widget name
         type: category

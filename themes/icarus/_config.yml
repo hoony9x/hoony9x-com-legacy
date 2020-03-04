@@ -170,6 +170,7 @@ widgets:
         # Links to be shown in the links widget
         links:
             GitHub: 'https://github.com/hoony9x'
+            Facebook: 'https://facebook.com/hoony9x'
             LinkedIn: 'https://linkedin.com/in/kihoon-han-03a801117/'
     -
         # Widget name

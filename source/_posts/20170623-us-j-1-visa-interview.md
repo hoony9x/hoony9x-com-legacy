@@ -2,7 +2,9 @@
 title: J-1 비자 인터뷰 후기 (US J-1 Visa Interview)
 date: 2017-06-23 09:00:00
 thumbnail: /images/20170623-us-j-1-visa-interview/IMG_0174.jpg
-categories: "United States"
+categories:
+  - "United States"
+  - "UCI I-SURF 2017"
 tags:
   - "United States"
   - "US Visa"

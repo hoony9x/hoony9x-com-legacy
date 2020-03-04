@@ -133,30 +133,27 @@ widgets:
         # Author's current location to be shown in the profile widget
         location: Seoul, Republic of Korea
         # Path or URL to the avatar to be shown in the profile widget
-        avatar: https://avatars2.githubusercontent.com/u/6437355
+        avatar: /images/profile.jpg
         # Email address for the Gravatar to be shown in the profile widget
-        gravatar: me@hoony9x.com
+        # gravatar: me@hoony9x.com
         # Whether to show avatar image rounded or square
         avatar_rounded: true
         # Path or URL for the follow button
         follow_link: 'https://github.com/hoony9x'
         # Links to be shown on the bottom of the profile widget
-        # social_links:
-        #     Github:
-        #         icon: fab fa-github
-        #         url: 'https://github.com/hoony9x'
-        #     Facebook:
-        #         icon: fab fa-facebook
-        #         url: 'https://facebook.com/hoony9x'
-        #     # Twitter:
-        #     #     icon: fab fa-twitter
-        #     #     url: 'https://twitter.com'
-        #     # Dribbble:
-        #     #     icon: fab fa-dribbble
-        #     #     url: 'https://dribbble.com'
-        #     # RSS:
-        #     #     icon: fas fa-rss
-        #     #     url: /
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: 'https://github.com/hoony9x'
+            LinkedIn:
+                icon: fab fa-linkedin
+                url: 'https://linkedin.com/in/kihoon-han-03a801117'
+            Facebook:
+                icon: fab fa-facebook
+                url: 'https://facebook.com/hoony9x'
+            Instagram:
+                icon: fab fa-instagram
+                url: 'https://www.instagram.com/hoony9x'
     # -
     #     # Widget name
     #     type: toc

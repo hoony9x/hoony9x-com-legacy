@@ -31,6 +31,7 @@ tags:
 ![Google Visitor Center - 5](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0124.jpg)
 
 </div>
+<br/>
 
 <div class="justified-gallery">
 
@@ -39,6 +40,7 @@ tags:
 ![업무 공간 모형 - 3](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0133-2.jpg)
 
 </div>
+<br/>
 
 ![사내 캠퍼스 자전가](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0137.jpg)
 
@@ -58,6 +60,7 @@ tags:
 ![사내 캠퍼스 도로 - 3](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0156.jpg)
 
 </div>
+<br/>
 
 ![Google 간판](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0159.jpg)
 
@@ -69,6 +72,7 @@ tags:
 ![Google Main Campus - 4](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0161.jpg)
 
 </div>
+<br/>
 
 ![Visitor 네임태그 발급 기계](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0180.jpg)
 ![사내 카페](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0181.jpg)
@@ -79,6 +83,7 @@ tags:
 ![내부 공간 - 2](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0183.jpg)
 
 </div>
+<br/>
 
 방문자는 들어갈 수 없는 공간도 있다.
 
@@ -94,6 +99,7 @@ tags:
 ![이야기 시간 - 1](/images/20170801-visiting-google-hq-at-mountain-view/IMG_0190.jpg)
 
 </div>
+<br/>
 
 여기서 나왔던 이야기들을 정리하면 다음과 같다. (메모한 글을 바탕으로 작성하기 때문에 정확하지 않을 수 있다.)
 

@@ -17,13 +17,12 @@ Finally... ETS. Thank you for everyone helping me to finish military service wit
 ![Bataillon KATUSAs](/images/20190830-ets-from-rok-army/IMG_3382.jpeg)
 
 </div>
-<br/>
 
 <div class="justified-gallery">
 
 ![All ETS KATUSAs - 1](/images/20190830-ets-from-rok-army/IMG_0174.jpg)
+![All ETS KATUSAs - 2](/images/20190830-ets-from-rok-army/IMG_0181.jpg)
 ![All KATUSAs in same Company](/images/20190830-ets-from-rok-army/IMG_0176.jpg)
-![All ETS KATUSAs - 1](/images/20190830-ets-from-rok-army/IMG_0181.jpg)
 
 </div>
 <br/>

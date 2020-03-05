@@ -3,7 +3,7 @@ title: 세 번째 주말 (7/8 ~ 7/9) – Laguna Beach
 date: 2017-07-10 23:04:37
 thumbnail: /images/20170710-united-states-2017-3rd-week/IMG_0364.jpg
 categories:
-  - "Photo"
+  - "Travel"
   - "United States"
 tags:
   - "United States"

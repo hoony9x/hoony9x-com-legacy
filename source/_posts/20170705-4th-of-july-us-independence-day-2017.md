@@ -20,7 +20,7 @@ tags:
 
 나는 Irvine High School 쪽에서 불꽃놀이를 관람했다.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d849726.2627224793!2d-117.78155!3d33.702655!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5bf4f42d30752325!2z7Ja067CU7J24IO2VmOydtCDsiqTsv6g!5e0!3m2!1sko!2sus!4v1583399628627!5m2!1sko!2sus" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d849726.2627224793!2d-117.78155!3d33.702655!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5bf4f42d30752325!2z7Ja067CU7J24IO2VmOydtCDsiqTsv6g!5e0!3m2!1sko!2sus!4v1583399628627!5m2!1sko!2sus" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ![Entry Ticket](/images/20170705-4th-of-july-us-independence-day-2017/IMG_2751.jpg)
 

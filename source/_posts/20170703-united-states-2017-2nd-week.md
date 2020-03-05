@@ -7,6 +7,7 @@ categories:
   - "United States"
 tags:
   - "United States"
+  - "California"
   - "New Port Beach"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Dynamic Voltage and Frequency Scaling (DVFS) 에 관하여
-date: 2020-03-05 15:10:10
+date: 2017-07-03 15:10:10
 thumbnail: /images/20170703-about-dvfs-nvidia-jetson-tx2/DFVS_Graph.001.jpeg
 categories:
   - "United States"

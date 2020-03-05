@@ -26,7 +26,7 @@ tags:
 
 특이하게도 경찰 측에서 행사를 주최했다.
 
-![Playing US National Anthem](/images/20170705-4th-of-july-us-independence-day-2017/IMG_2751.jpg)
+![Playing US National Anthem](/images/20170705-4th-of-july-us-independence-day-2017/IMG_0224.jpg)
 
 <div class="justified-gallery">
 

@@ -35,6 +35,7 @@ tags:
 ![Fashion Island - 3](/images/20170703-united-states-2017-2nd-week/3-1-1.jpg)
 
 </div>
+<br/>
 
 여기에 [Apple Fashion Island](https://goo.gl/maps/2bBT3xkaAS62) (애플스토어의 공식 명칭은 2017년 현재 전부 “Apple” 로 변경되었다) 가 있었다. 앱등이인 내가 지나칠 수는 없기에 들어가봤다.
 
@@ -44,6 +45,7 @@ tags:
 ![Fashion Island Apple Store - 2](/images/20170703-united-states-2017-2nd-week/7-1-1.jpg)
 
 </div>
+<br/>
 
 아래는 사설수리 광고 간판인 듯 하다.
 
@@ -74,6 +76,7 @@ tags:
 ![New Port Beach - 5](/images/20170703-united-states-2017-2nd-week/16-1.jpg)
 
 </div>
+<br/>
 
 해변에는 집들도 많이 보이는데 저 집이 숙박용 팬션인지 아니면 진짜 가정집인지는 모르겠다. 어느 쪽이든 값이 꽤나 비쌀 것 같다.
 

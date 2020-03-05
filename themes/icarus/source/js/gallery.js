@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
             $('.justified-gallery > p > .gallery-item').unwrap();
         }
         $('.justified-gallery').justifiedGallery({
-            lastRow: 'justify'
+            lastRow: 'justify',
         });
     }
 });

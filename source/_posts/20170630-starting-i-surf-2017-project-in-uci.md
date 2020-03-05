@@ -3,7 +3,7 @@ title: UCI 에서 I-SURF 2017 프로젝트를 시작하며...
 date: 2017-06-30 12:14:04
 thumbnail: /images/20170630-starting-i-surf-2017-project-in-uci/IMG_0072.jpg
 categories:
-  - "United States"
+  - "Experience"
   - "UCI I-SURF 2017"
 tags:
   - "United States"

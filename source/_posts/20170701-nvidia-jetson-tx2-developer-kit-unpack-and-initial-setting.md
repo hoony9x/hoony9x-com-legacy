@@ -3,7 +3,7 @@ title: NVIDIA Jetson TX2 Developer Kit 개봉기 및 초기 설정
 date: 2017-07-01 14:06:34
 thumbnail: /images/20170701-nvidia-jetson-tx2-developer-kit-unpack-and-initial-setting/TX2_Module_170203_0017_TRANSP_2000px.png
 categories:
-  - "United States"
+  - "Experience"
   - "UCI I-SURF 2017"
 tags:
   - "United States"

@@ -3,8 +3,8 @@ title: 두 번째 주말 (7/1 ~ 7/2) – New Port Beach
 date: 2017-07-03 22:25:24
 thumbnail: /images/20170703-united-states-2017-2nd-week/IMG_0128.jpg
 categories:
+  - "Photo"
   - "United States"
-  - "UCI I-SURF 2017"
 tags:
   - "United States"
   - "New Port Beach"

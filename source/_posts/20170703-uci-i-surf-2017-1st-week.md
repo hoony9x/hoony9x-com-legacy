@@ -3,7 +3,7 @@ title: UCI I-SURF 2017 참가 1주차 정리 글
 date: 2017-07-03 21:13:09
 thumbnail: /images/20170703-uci-i-surf-2017-1st-week/IMG_2701.jpg
 categories:
-  - "United States"
+  - "Experience"
   - "UCI I-SURF 2017"
 tags:
   - "United States"

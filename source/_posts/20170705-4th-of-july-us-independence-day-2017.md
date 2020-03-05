@@ -4,6 +4,7 @@ date: 2017-07-05 15:08:39
 thumbnail: /images/20170705-4th-of-july-us-independence-day-2017/IMG_0234.jpg
 categories:
   - "Photo"
+  - "United States"
 tags:
   - "United States"
   - "Independance Day"

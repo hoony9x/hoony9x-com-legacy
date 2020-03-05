@@ -3,7 +3,7 @@ title: NVPModel – NVIDIA Jetson TX2
 date: 2017-07-03 19:48:17
 thumbnail: /images/20170703-nvpmodel-nvidia-jetson-tx2/3-1.jpeg
 categories:
-  - "United States"
+  - "Experience"
   - "UCI I-SURF 2017"
 tags:
   - "United States"

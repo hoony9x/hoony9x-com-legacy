@@ -3,7 +3,7 @@ title: Google 본사 방문 후기 (Visiting Google HQ at Mountain View)
 date: 2017-08-01 15:23:26
 thumbnail: /images/20170801-visiting-google-hq-at-mountain-view/IMG_0188.jpg
 categories:
-  - "United States"
+  - "Experience"
   - "UCI I-SURF 2017"
 tags:
   - "Google"

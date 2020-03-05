@@ -3,7 +3,7 @@ title: UC Irvine – 첫 주말 (6월 24일 ~ 6월 25일) 후기
 date: 2017-06-27 13:29:08
 thumbnail: /images/20170627-united-states-2017-1st-week/9-1.jpg
 categories:
-  - "United States"
+  - "Experience"
   - "UCI I-SURF 2017"
 tags:
   - "United States"

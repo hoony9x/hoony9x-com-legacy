@@ -2,7 +2,10 @@
 title: 서울월드컵경기장 야경 (Night View of Seoul World Cup Stadium)
 date: 2018-10-27 02:42:25
 thumbnail: /images/20181027-night-view-of-seoul-world-cup-stadium/Seoul_World_Cup_Stadium_By_Han_KH.jpg
-categories: "Photo"
+categories:
+  - "Photo"
+  - "Republic of Korea"
+  - "Seoul"
 tags:
   - "Seoul"
 ---

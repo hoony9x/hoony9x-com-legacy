@@ -1,6 +1,6 @@
 ---
 title: UCI I-SURF 2017 참가 2주차 정리 글
-date: 2020-03-05 19:49:53
+date: 2017-07-10 19:49:53
 thumbnail: /images/20170710-uci-i-surf-2017-2nd-week/IMG_0072-1.jpg
 categories:
   - "Experience"

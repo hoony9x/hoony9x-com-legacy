@@ -1,5 +1,5 @@
 ---
-title: uci-i-surf-2017-3rd-week
+title: UCI I-SURF 2017 참가 3주차 정리 글
 date: 2017-07-17 19:57:37
 thumbnail: /images/20170717-uci-i-surf-2017-3rd-week/IMG_0072-1.jpg
 categories:

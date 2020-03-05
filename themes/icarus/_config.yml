@@ -79,16 +79,6 @@ comment:
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 donate:
-    # -
-    #     # Donation entry name
-    #     type: alipay
-    #     # Qrcode image URL
-    #     qrcode: ''
-    # -
-    #     # Donation entry name
-    #     type: wechat
-    #     # Qrcode image URL
-    #     qrcode: ''
     -
         # Donation entry name
         type: paypal
@@ -96,11 +86,6 @@ donate:
         business: 'me@hoony9x.com'
         # Currency code
         currency_code: USD
-    # -
-    #     # Donation entry name
-    #     type: patreon
-    #     # URL to the Patreon page
-    #     url: ''
 # Share plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
@@ -114,11 +99,11 @@ sidebar:
         # Whether the left sidebar is sticky when page scrolls
         # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/make-a-sidebar-sticky-when-page-scrolls/
         sticky: false
-    # right sidebar settings
-    right:
-        # Whether the right sidebar is sticky when page scrolls
-        # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/make-a-sidebar-sticky-when-page-scrolls/
-        sticky: false
+    # # right sidebar settings
+    # right:
+    #     # Whether the right sidebar is sticky when page scrolls
+    #     # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/make-a-sidebar-sticky-when-page-scrolls/
+    #     sticky: false
 # Sidebar widget settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:
@@ -155,22 +140,11 @@ widgets:
             Instagram:
                 icon: fab fa-instagram
                 url: 'https://instagram.com/hoony9x'
-    # -
-    #     # Widget name
-    #     type: toc
-    #     # Where should the widget be placed, left or right
-    #     position: left
     -
         # Widget name
-        type: links
+        type: recent_posts
         # Where should the widget be placed, left or right
         position: left
-        # Links to be shown in the links widget
-        links:
-            GitHub: 'https://github.com/hoony9x'
-            Facebook: 'https://facebook.com/hoony9x'
-            LinkedIn: 'https://linkedin.com/in/kihoon-han-03a801117/'
-            Instagram: 'https://instagram.com/hoony9x'
     -
         # Widget name
         type: category
@@ -183,19 +157,15 @@ widgets:
         position: left
     -
         # Widget name
-        type: recent_posts
+        type: tag
         # Where should the widget be placed, left or right
-        position: right
+        position: left
     -
         # Widget name
         type: archive
         # Where should the widget be placed, left or right
-        position: right
-    -
-        # Widget name
-        type: tag
-        # Where should the widget be placed, left or right
-        position: right
+        position: left
+
 # Other plugin settings
 plugins:
     # Enable page animations

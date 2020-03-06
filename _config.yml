@@ -102,6 +102,9 @@ html_minifier:
   minifyJS: true
   minifyCSS: true
 
+sitemap:
+  path: sitemap.xml
+  
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/

@@ -41,9 +41,7 @@ Select what you want to install, and press next. Please note that your computer 
 
 Prepare your device to recovery mode and just wait. SDK will automatically setup your device.
 
-## About DVFS
-
-<!-- (Click [here](/about-dvfs-nvidia-jetson-tx2/) to view related post) -->
+## About DVFS (Click [here](/about-dvfs-nvidia-jetson-tx2/) to view related post)
 
 DVFS is an acronym of Dynamic Voltage and Frequency Scaling. You can see details in below links.
 
@@ -51,17 +49,13 @@ DVFS is an acronym of Dynamic Voltage and Frequency Scaling. You can see details
 - https://en.wikipedia.org/wiki/Dynamic_frequency_scaling
 - http://processors.wiki.ti.com/index.php/DVFS_User_Guide
 
-## About NVPModel
-
-<!-- (Click [here](/nvpmodel-nvidia-jetson-tx2/) to view related post) -->
+## About NVPModel (Click [here](/nvpmodel-nvidia-jetson-tx2/) to view related post)
 
 NVPModel makes it easy to adjust the clock of CPU or GPU cores and on/off state. You can use “nvpmodel” command and just type 1-line command to change device operation state.
 
 You can see details on [this site](http://www.jetsonhacks.com/2017/03/25/nvpmodel-nvidia-jetson-tx2-development-kit/).
 
-## About Power Monitoring
-
-<!-- (Click [here](/power-monitoring-nvidia-jetson-tx2/) to view related post) -->
+## About Power Monitoring (Click [here](/power-monitoring-nvidia-jetson-tx2/) to view related post)
 
 NVIDIA Jetson TX2 supports power monitoring via I2C bus.  
 We can check each value using [sysfs](https://ko.wikipedia.org/wiki/Sysfs).  
